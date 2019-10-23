@@ -10,7 +10,7 @@ customUI/customUI.xml
      <tabs>
        <tab id="CustomTab" label="My Tab">
          <group id="SampleGroup" label="Sample Group">
-           <button id="Button1" label="stack" imageMso="ChartAreaChart" size="large" onAction="ThisWorkbook.stack" />
+           <button id="Button1" label="Stack" imageMso="ChartAreaChart" size="large" onAction="my.xlam!Stack" />
            ...
          </group>
        </tab>
